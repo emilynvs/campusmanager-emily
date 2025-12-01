@@ -1,3 +1,3 @@
-function oi();
+function oi(){
     return 'Olá mundo';
-
+}
